@@ -14,12 +14,12 @@ nav {
 }
 
 nav ul {
-  display: flex;
-  justify-content: center;
-  gap: 50px;
-  list-style: none;
-  padding: 15px;
-  margin: 0;
+ display: flex;
+ justify-content: center;
+ gap: 60px;
+ list-style: none;
+ padding: 0;
+ margin: 0;
 }
 
 nav a {
@@ -41,3 +41,32 @@ header {
   padding: 40px 20px;
 }
 
+div {
+  background-color: #f3eef7;
+  padding: 25px;
+  border-radius: 15px;
+  border: 2px solid #6b4c8a;
+
+}
+
+.sterotype {
+  background-color: #f3eef7;
+  padding: 25px;
+  border-radius: 15px;
+  border: 2px solid #6b4c8a;
+
+}
+
+.accessiblity {
+  background-color: #f3eef7;
+  padding: 25px;
+  border-radius: 15px;
+  border: 2px solid #6b4c8a;
+
+}
+
+main{
+max-width: 1000px;
+margin: o auto;
+padding: 20px 40px;
+}
